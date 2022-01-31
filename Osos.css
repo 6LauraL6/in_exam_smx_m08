@@ -1,35 +1,46 @@
-.card1{
-    position: absolute;
-margin-top: -10px;  
+.bd-placeholder-img {
+  font-size: 1.125rem;
+  text-anchor: middle;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  user-select: none;
 }
-  .card2{
-  margin-left:px;
-  margin-top: 610px;
-  position: absolute;
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
   }
-  .card3{
-      margin-top:-8px;
-  margin-left: 700px; 
-  position: absolute;
-  }
-  .card4{
-  margin-top:600px;
+}
+
+.card1 {
+}
+.card2 {
+}
+.card3 {
+  margin-top: -8px;
   margin-left: 700px;
   position: absolute;
-  }
-  .card5{
-      margin-top:1150px;
-      margin-left: 1px;
-  }
-  .card6{
-      margin-top: -659px;
+}
+.card4 {
+  margin-top: 600px;
+  margin-left: 700px;
+  position: absolute;
+}
+.card5 {
+  margin-top: 1150px;
+  margin-left: 1px;
+}
+.card6 {
+  margin-top: -659px;
   margin-left: 689px;
-  }
-  .card7{
-  margin-top:100px;
+}
+.card7 {
+  margin-top: 100px;
   margin-left: 300px;
-  }
-  .card8{
+}
+.card8 {
   margin-top: -699px;
   margin-left: 999px;
-  }
+}
+
+
